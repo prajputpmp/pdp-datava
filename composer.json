@@ -1,11 +1,14 @@
-{
-    "repositories": [],
-    "require": {
-        "phpunit/phpunit": "3.7.*@dev"
-    },
-    "autoload": {
-        "psr-4": {
-            "": "src"
-        }
+{ 
+	"name": "PGP/DataValue",
+     	"description": "A packages for data value.",
+    	"keywords": ["datavalue", "pgp"],
+    	"repositories": [],
+   	 "require": {
+        	"phpunit/phpunit": "3.7.*@dev"
+    	},
+    	"autoload": {
+        	"psr-4": {
+           	 "": "src"
+       	 }
     }
 }
